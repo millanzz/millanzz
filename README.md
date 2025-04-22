@@ -77,15 +77,15 @@ Me chamo Gustavo Nascimento Millan, tenho 19 anos e sou natural do São Paulo. C
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="180em" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=millanzz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=millanzz&show_icons=true&theme=tokyonight&include_all_commits=false&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="180em" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=millanzz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
   />
 
