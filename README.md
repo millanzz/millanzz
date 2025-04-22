@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Gustavo Millan
 
-**`Desenvolvedoro FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Gustavo Nascimento Millan, tenho 19 anos e sou natural do São Paulo. Concluí o ensino médio na ETEC JorgeStreet, com o curso técnico em Mecatrônica. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na USCS, e trabalho com análise de dados como estagiário na General Motors.
 
