@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Gustavo Millan
+# 👨🏻‍💻 Gustavo Millan
 
 **`Desenvolvedor FullStack`**
 
