@@ -65,7 +65,7 @@ Me chamo Gustavo Nascimento Millan, tenho 19 anos e sou natural do São Paulo. C
     title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sql/sql-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" 
 />
 
 <br/>
