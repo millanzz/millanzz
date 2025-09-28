@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Gustavo Nascimento Millan, tenho 19 anos e sou natural do São Paulo. Concluí o ensino médio na ETEC JorgeStreet, com o curso técnico em Mecatrônica. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na USCS, e trabalho com análise de dados como estagiário na General Motors.
+Me chamo Gustavo Nascimento Millan, tenho 19 anos e sou natural do São Paulo. Concluí o ensino médio na ETEC JorgeStreet, com o curso técnico em Mecatrônica. Atualment, estou cursando Análise e Desenvolvimento de Sistemas na USCS, com foco em desenvolvimento JS FullStack, e trabalhei com análise de dados como jovem aprendiz na General Motors.
 
 ---
 
@@ -44,11 +44,11 @@ Me chamo Gustavo Nascimento Millan, tenho 19 anos e sou natural do São Paulo. C
 
 <img 
     align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
+    alt="React" 
+    title="React"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 
 <img 
