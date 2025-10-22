@@ -2,8 +2,8 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Gustavo Nascimento Millan, tenho 19 anos e sou natural do São Paulo. Concluí o ensino médio na ETEC JorgeStreet, com o curso técnico em Mecatrônica. Atualment, estou cursando Análise e Desenvolvimento de Sistemas na USCS, com foco em desenvolvimento JS FullStack, e trabalhei com análise de dados como jovem aprendiz na General Motors.
 
+Estudande de Análise e Desenvolvimento de Sistemas, com foco em FullStack com JavaScript e TypesScript.
 ---
 
 ### 🤖 Linguagens e Tecnologias
