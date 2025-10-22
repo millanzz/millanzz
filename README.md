@@ -15,8 +15,8 @@ construção de dashboards e análise em Power BI. Busco oportunidades para evol
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="60px" 
-    style="padding-right: 20px;" 
+    width="50px" 
+    style="padding-right: 15px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
