@@ -38,6 +38,15 @@ construção de dashboards e análise em Power BI. Busco oportunidades para evol
 
 <img 
     align="left" 
+    alt="TypeScript" 
+    title="TypeScript"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typeScript/typescript-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="NodeJs" 
     title="NodeJs"
     width="40px" 
