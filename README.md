@@ -9,7 +9,7 @@ construção de dashboards e análise em Power BI. Busco oportunidades para evol
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
