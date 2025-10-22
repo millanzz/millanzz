@@ -3,7 +3,10 @@
 **`Desenvolvedor FullStack`**
 
 
-Estudande de Análise e Desenvolvimento de Sistemas, com foco em FullStack com JavaScript e TypesScript.
+Tecnólogo em Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento Full Stack. Experiência em criação de interfaces responsivas HTML, CSS,
+JavaScript) e conhecimentos em React para front-end, além de bases sólidas em lógica de programação. Vivência em análise de sistemas, automação de dados,
+construção de dashboards e análise em Power BI. Busco oportunidades para evoluir na área de TI e contribuir em projetos inovadores. 
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
