@@ -23,7 +23,7 @@ construção de dashboards e análise em Power BI. Busco oportunidades para evol
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -31,7 +31,7 @@ construção de dashboards e análise em Power BI. Busco oportunidades para evol
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -40,7 +40,7 @@ construção de dashboards e análise em Power BI. Busco oportunidades para evol
     align="left" 
     alt="NodeJs" 
     title="NodeJs"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
@@ -49,7 +49,7 @@ construção de dashboards e análise em Power BI. Busco oportunidades para evol
     align="left" 
     alt="React" 
     title="React"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
@@ -58,7 +58,7 @@ construção de dashboards e análise em Power BI. Busco oportunidades para evol
     align="left" 
     alt="SQL" 
     title="SQL"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" 
 />
