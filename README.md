@@ -1,12 +1,13 @@
 # 👨🏻‍💻 Gustavo Millan
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Front-end, Web, Mobile`**
 
 
-Tecnólogo em Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento Full Stack. Experiência em criação de interfaces responsivas HTML, CSS,
-JavaScript) e conhecimentos em React para front-end, além de bases sólidas em lógica de programação. Vivência em análise de sistemas, automação de dados,
-construção de dashboards e análise em Power BI. Busco oportunidades para evoluir na área de TI e contribuir em projetos inovadores. 
+Gustavo Millan é estudante de Análise e Desenvolvimento de Sistemas, com formação técnica em Mecatrônica pela ETEC Jorge Street, onde teve seu TCC reconhecido como o melhor projeto do curso. Possui experiência prática em desenvolvimento Full Stack, com foco na criação de interfaces responsivas utilizando HTML, CSS e JavaScript, além de conhecimentos em React e Flutter para aplicações modernas no front-end e mobile.
 
+Também possui vivência em análise de sistemas, automação de dados e construção de dashboards com Power BI, aliando visão analítica à resolução de problemas. Sua experiência na General Motors e Volkswagen contribuiu para o desenvolvimento de habilidades em ambientes corporativos dinâmicos e orientados a resultados.
+
+Atualmente, busca oportunidades para evoluir na área de tecnologia, com interesse em desenvolvimento web e construção de soluções inovadoras.
 ---
 
 ## 🤖 Linguagens e Tecnologias
