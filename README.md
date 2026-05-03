@@ -65,6 +65,15 @@ construção de dashboards e análise em Power BI. Busco oportunidades para evol
 
 <img 
     align="left" 
+    alt="Flutter" 
+    title="Flutter"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="SQL" 
     title="SQL"
     width="40px" 
