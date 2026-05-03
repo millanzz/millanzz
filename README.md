@@ -7,7 +7,6 @@ Gustavo Millan é estudante de Análise e Desenvolvimento de Sistemas, com forma
 
 Também possui vivência em análise de sistemas, automação de dados e construção de dashboards com Power BI, aliando visão analítica à resolução de problemas. Sua experiência na General Motors e Volkswagen contribuiu para o desenvolvimento de habilidades em ambientes corporativos dinâmicos e orientados a resultados.
 
-Atualmente, busca oportunidades para evoluir na área de tecnologia, com interesse em desenvolvimento web e construção de soluções inovadoras.
 ---
 
 ## 🤖 Linguagens e Tecnologias
