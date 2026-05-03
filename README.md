@@ -84,3 +84,6 @@ construção de dashboards e análise em Power BI. Busco oportunidades para evol
 <br/>
 <br/>
 
+## 🐍 Minhas contribuições
+
+![Snake animation](https://github.com/seu-usuario/seu-usuario/blob/output/github-contribution-grid-snake.svg)
